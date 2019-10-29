@@ -22,3 +22,9 @@ the code for 51bitquant video
 ## 51Bitquant数字货币量化视频教程
 
 视频观看地址：https://www.youtube.com/channel/UCjCMoRi4dZ6LRV2KL_RP8KQ/videos
+
+## Python数字货币量化交易进阶课程点击这里
+https://study.163.com/course/courseMain.htm?courseId=1209509824
+
+包括REST API， Websocket, 回测、实盘都有讲解，视频陆续更新中，
+

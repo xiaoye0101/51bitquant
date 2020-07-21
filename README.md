@@ -1,33 +1,34 @@
 # python数字货币量化交易视频代码
-视频的代码链接: [youtube公开视频链接](https://www.youtube.com/channel/UCjCMoRi4dZ6LRV2KL_RP8KQ/videos)
+youtube视频链接: [https://www.youtube.com/channel/UCjCMoRi4dZ6LRV2KL_RP8KQ/videos](https://www.youtube.com/channel/UCjCMoRi4dZ6LRV2KL_RP8KQ/videos)
 
-如果你是国内的朋友，你可以在B站找到视频[https://space.bilibili.com/401686908](https://space.bilibili.com/401686908)
+B站找到视频链接: [https://space.bilibili.com/401686908](https://space.bilibili.com/401686908)
 
 # 网易云课堂进阶课程
 如果你想学习进阶的课程，可以看下一网易云课堂的视频: https://study.163.com/course/courseMain.htm?courseId=1209509824
 
 课程包含python基础知识, 网络请求REST API， Websocket, 回测、策略， 实盘交易，以及linux服务器都有讲解，目前课程已经更新完结。
-具体可以网易云搜索51bitquant, 或者加我微信咨询：**bitquant51**
+你可以在网易云看下课程目录，非常的详细，适合入门和提高。具体可以网易云搜索51bitquant, 或者加我微信咨询：**bitquant51**
 
 
 # 网格交易代码
 
 https://github.com/ramoslin02/binance_grid_trader
 
-
 网格交易的原理视频讲解链接:
 [https://www.bilibili.com/video/BV1Jg4y1v7vr/](https://www.bilibili.com/video/BV1Jg4y1v7vr/)
 
 # 交易所注册推荐码
 
-- OKEX 交易所注册推荐码, 手续费返佣20%
+- OKEX 交易所注册推荐码, 手续费返佣**20%**
    - [https://www.okex.me/join/1847111798](https://www.okex.me/join/1847111798)
 
-- 币安现货推荐码：返佣20%
+- 币安现货推荐码：返佣**20%**
    - [https://www.binancezh.com/cn/register?ref=ESE80ESH](https://www.binancezh.com/cn/register?ref=ESE80ESH)
 
 - 币安合约推荐码:返佣10%
    - [https://www.binancezh.com/cn/futures/ref/51bitquant](https://www.binancezh.com/cn/futures/ref/51bitquant)
+   
+**如果你的交易手续费比较多，你可以联系我，给你提供返佣的定制服务。添加微信： bitquant51 ***
 
 #网格交易策略使用行情
 - 震荡行情
@@ -105,7 +106,6 @@ https://github.com/ramoslin02/binance_grid_trader
 可以添加我的微信，如果你有什么量化问题、python学习、课程咨询等方面的问题，都可以咨询我。
 
 ![51bitquant个人微信](https://upload-images.jianshu.io/upload_images/814550-f83c8302f2c4e344.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 
 
 

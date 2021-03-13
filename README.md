@@ -41,7 +41,7 @@ https://github.com/ramoslin02/binance_grid_trader
 - 网络速度和性能还不错
 - 推荐链接如下：可以通过下面链接够买服务器，可以享受打折优惠:
 
-[https://www.ucloud.cn/site/global.html?invitation_code=C1x2EA81CD79B8C#dongjing](https://www.ucloud.cn/site/global.html?invitation_code=C1x2EA81CD79B8C#dongjing)
+[https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1x2EA81CD79B8C#dongjing](https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1x2EA81CD79B8C#dongjing)
 
 视频讲解如下:
 [https://www.bilibili.com/video/BV1eK4y147HT/](https://www.bilibili.com/video/BV1eK4y147HT/)

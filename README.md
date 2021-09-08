@@ -9,6 +9,9 @@ B站找到视频链接: [https://space.bilibili.com/401686908](https://space.bil
 课程包含python基础知识, 网络请求REST API， Websocket, 回测、策略， 实盘交易，以及linux服务器都有讲解，目前课程已经更新完结。
 你可以在网易云看下课程目录，非常的详细，适合入门和提高。具体可以网易云搜索51bitquant, 或者加我微信咨询：**bitquant51**
 
+# 马丁策略
+1. 马丁策略可以基于howtrader进行开发， 具体策略可以参考: https://github.com/51bitquant/course_codes 下面的25/26/27课代码，相应的是视频可以参考网易云课堂的视频: https://study.163.com/course/courseMain.htm?courseId=1210904816
+2. 另外多币种的马丁策略，强势币的马丁策略代码如下: https://github.com/51bitquant/multi_pairs_martingle_bot
 
 # 网格交易代码
 

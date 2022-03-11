@@ -3,6 +3,9 @@ youtube视频链接: [https://www.youtube.com/channel/UCjCMoRi4dZ6LRV2KL_RP8KQ/v
 
 B站找到视频链接: [https://space.bilibili.com/401686908](https://space.bilibili.com/401686908)
 
+## 币安合约交易快速下单软件下载
+链接地址：https://share.weiyun.com/F03qTiin
+
 # 网易云课堂进阶课程
 如果你想学习进阶的课程，可以看下一网易云课堂的视频: https://study.163.com/course/courseMain.htm?courseId=1209509824
 
@@ -100,6 +103,7 @@ https://github.com/ramoslin02/binance_grid_trader
 
 **linux服务器指令和网格策略实盘部署过程如下**
 [https://www.bilibili.com/video/BV1mK411n7JW/](https://www.bilibili.com/video/BV1mK411n7JW/)
+
 
 # 更多课程内容
 请参考网易云课堂的视频
